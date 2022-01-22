@@ -22,4 +22,9 @@ public class WelcomeScreen extends AppCompatActivity {
         Intent i1 = new Intent(getApplicationContext(), MainCredits.class);
         startActivity(i1);
     }
+
+    public void callSpeaker(View view){
+        Intent i2 = new Intent(getApplicationContext(), TexttoSpeech.class);
+        startActivity(i2);
+    }
 }
