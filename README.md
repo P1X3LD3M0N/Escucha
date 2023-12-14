@@ -1,4 +1,4 @@
-# Escucha - Voice to Text and Text to Speech Android App
+# Escucha - Speech to Text and Text to Speech Android App
 
 ## Overview
 
@@ -45,11 +45,3 @@ Escucha is a versatile Android app developed in Android Studio that empowers use
    - **Text-to-Speech**: Enter or paste the text you want to hear, then tap the speaker icon to listen.
 
 3. Explore customization options in the settings to enhance your experience.
-
-## Contributing
-
-Contributions are welcome! Feel free to submit issues, feature requests, or pull requests. Follow the guidelines in the [CONTRIBUTING](CONTRIBUTING.md) file.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
