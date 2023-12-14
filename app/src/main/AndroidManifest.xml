@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.heretolisten">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/mic_ic_none_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/mic_ic_none_icon"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Heretolisten">
+        <activity
+            android:name=".TexttoSpeech"
+            android:exported="false" />
+        <activity
+            android:name=".ReadFile"
+            android:exported="false" />
+        <activity
+            android:name=".MainListener"
+            android:exported="false" />
+        <activity
+            android:name=".MainCredits"
+            android:exported="false" />
+        <activity
+            android:name=".WelcomeScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
