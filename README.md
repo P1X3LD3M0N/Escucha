@@ -13,8 +13,8 @@ Escucha is a versatile Android app developed in Android Studio that empowers use
 
 ## Screenshots
 
-![Screenshot 1](/Screenshots/Screenshot1.png)
-![Screenshot 2](/Screenshots/Screenshot2.png)
+![Screenshot 1](/Screenshots/Screenshot1.jpg)
+![Screenshot 2](/Screenshots/Screenshot2.jpg)
 
 ## Getting Started
 
